@@ -8,7 +8,8 @@ To Develop a convolutional deep neural network for digit classification and to v
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![exp3](https://github.com/JEEVAABI/mnist-classification/assets/93427098/0bf27d3c-b9a3-4001-a227-90400f51f455)
+
 
 ## DESIGN STEPS
 
